@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moppdev
-- 👀 I’m interested in software/web/mobile development, as well as politics, darts, rugby, and gaming.
+- 👀 I’m interested in software/web/mobile development, as well as politics, reading, darts, rugby, and gaming.
 - 🌱 2024 - Final Year Diploma in IT student.
 
 <!---
