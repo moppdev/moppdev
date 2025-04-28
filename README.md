@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 # Hi there 👋, I'm Marco!
 
 ## 🚀 About Me
-I'm a passionate web developer focused on building scalable and efficient web and mobile applications. Interests are politics, reading, darts, rugby, and gaming.
+I'm a passionate web developer in South Africa focused on building scalable and efficient web and mobile applications. My interests include politics, reading, darts, rugby, and gaming.
 
 ## 🛠️ My Tech Stack
 
