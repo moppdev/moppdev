@@ -22,7 +22,7 @@ I'm a passionate web developer in South Africa focused on building scalable and 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-17202C?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-F24E1E?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
